@@ -1,3 +1,5 @@
+package classes;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.time.LocalDate;
@@ -29,7 +31,7 @@ public class DataGenerator {
 
 
         String filePath;
-//        if(sex == SEX.FEMALE)
+//        if(sex == classes.SEX.FEMALE)
         if (SEX.FEMALE.equals(sex)) {
              filePath = "src\\GeneratorData\\FemaleNames";
         }else{
@@ -55,7 +57,8 @@ public class DataGenerator {
         return new Person(namesList.get(random.nextInt(namesList.size())),
                 surnamesList.get(random.nextInt(surnamesList.size())),
                 sex,
-                random.nextInt(1950,LocalDate.EPOCH.getYear()),
+//                random.nextInt(1960,LocalDate.EPOCH.getYear()),
+                random.nextInt(1960,2002),
                 jobNamesList.get(random.nextInt(jobNamesList.size())),
                 generateCompany(),
                 random.nextInt(0,60000),
@@ -78,6 +81,10 @@ public class DataGenerator {
         }
     }
 
+    public Address generateAddressFromCSV(){
+        
+        return null;
+    }
     public Address generateAddress() {
         Random random = new Random();
         try {

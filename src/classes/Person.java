@@ -1,3 +1,5 @@
+package classes;
+
 public class Person {
     private String name;
     private String surname;
@@ -85,7 +87,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return
                 "name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
                 ", sex=" + sex +
@@ -93,7 +95,11 @@ public class Person {
                 ", job='" + job + '\'' +
                 ", company=" + company +
                 ", salary=" + salary +
-                ", address=" + address +
-                '}';
+                ", address=" + address;
+    }
+    public String personToFileMapper(){
+        StringBuilder sb = new StringBuilder();
+        sb.append(getName()).append(";").append(getSurname()).append(";").append(getSex()).append(";").append(bornYear).append(";").append(job).append(";").append(address.addressToFileMapper()).append(company.companyToFileMapper()).append(";").append(salary);
+        return sb.toString();
     }
 }

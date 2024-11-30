@@ -1,3 +1,5 @@
+package classes;
+
 public class Address {
     private String street;
     private String flatNo;
@@ -65,13 +67,18 @@ public class Address {
 
     @Override
     public String toString() {
-        return "Address{" +
-                "street='" + street + '\'' +
-                ", flatNo='" + flatNo + '\'' +
-                ", houseNo='" + houseNo + '\'' +
-                ", postalCode='" + postalCode + '\'' +
-                ", city='" + city + '\'' +
-                ", country='" + country + '\'' +
-                '}';
+        return "street='" + street + '\'' +
+                        ", flatNo='" + flatNo + '\'' +
+                        ", houseNo='" + houseNo + '\'' +
+                        ", postalCode='" + postalCode + '\'' +
+                        ", city='" + city + '\'' +
+                        ", country='" + country + '\'' ;
+    }
+
+    public String addressToFileMapper() {
+        StringBuilder sb = new StringBuilder();
+        sb.append(country).append(";").append(city).append(";").append(street).append(";").append(flatNo).append(";").append(houseNo).append(";")
+                .append(flatNo).append(";").append(postalCode).append(";");
+        return sb.toString();
     }
 }

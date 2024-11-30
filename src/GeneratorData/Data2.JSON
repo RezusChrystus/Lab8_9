@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Google",
+    "jobs": [
+      "Programmer",
+      "IT Support",
+      "Data Analyst"
+    ]
+  },
+  {
+    "name": "Apple",
+    "jobs": [
+      "Software Engineer",
+      "Hardware Engineer",
+      "Project Manager"
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "jobs": [
+      "Developer",
+      "System Administrator",
+      "Cloud Engineer"
+    ]
+  },
+  {
+    "name": "Amazon",
+    "jobs": [
+      "Software Developer",
+      "Operations Manager",
+      "Data Scientist"
+    ]
+  },
+  {
+    "name": "Facebook",
+    "jobs": [
+      "Backend Developer",
+      "Frontend Developer",
+      "Product Manager"
+    ]
+  },
+  {
+    "name": "Tesla",
+    "jobs": [
+      "Mechanical Engineer",
+      "Electrical Engineer",
+      "Sales Associate"
+    ]
+  },
+  {
+    "name": "Netflix",
+    "jobs": [
+      "Full Stack Developer",
+      "Content Strategist",
+      "Data Engineer"
+    ]
+  },
+  {
+    "name": "Adobe",
+    "jobs": [
+      "Graphic Designer",
+      "UX/UI Designer",
+      "Marketing Specialist"
+    ]
+  },
+  {
+    "name": "Intel",
+    "jobs": [
+      "Chip Design Engineer",
+      "Software Developer",
+      "Product Manager"
+    ]
+  },
+  {
+    "name": "IBM",
+    "jobs": [
+      "Cloud Consultant",
+      "AI Researcher",
+      "Business Analyst"
+    ]
+  },
+  {
+    "name": "Oracle",
+    "jobs": [
+      "Database Administrator",
+      "Cloud Architect",
+      "Consultant"
+    ]
+  },
+  {
+    "name": "Twitter",
+    "jobs": [
+      "Social Media Manager",
+      "Software Engineer",
+      "Community Specialist"
+    ]
+  },
+  {
+    "name": "Spotify",
+    "jobs": [
+      "Software Developer",
+      "Music Curator",
+      "Data Scientist"
+    ]
+  },
+  {
+    "name": "Slack",
+    "jobs": [
+      "Full Stack Developer",
+      "Customer Success Manager",
+      "Sales Representative"
+    ]
+  },
+  {
+    "name": "Salesforce",
+    "jobs": [
+      "CRM Consultant",
+      "Sales Engineer",
+      "Marketing Manager"
+    ]
+  },
+  {
+    "name": "Snapchat",
+    "jobs": [
+      "Mobile Developer",
+      "Product Designer",
+      "Data Analyst"
+    ]
+  },
+  {
+    "name": "Zoom",
+    "jobs": [
+      "Sales Manager",
+      "Software Engineer",
+      "IT Support Specialist"
+    ]
+  },
+  {
+    "name": "Uber",
+    "jobs": [
+      "Driver",
+      "Software Engineer",
+      "Operations Specialist"
+    ]
+  },
+  {
+    "name": "Lyft",
+    "jobs": [
+      "Customer Service Representative",
+      "Software Developer",
+      "Operations Manager"
+    ]
+  },
+  {
+    "name": "Airbnb",
+    "jobs": [
+      "Product Designer",
+      "Frontend Developer",
+      "Business Analyst"
+    ]
+  },
+  {
+    "name": "Stripe",
+    "jobs": [
+      "Software Engineer",
+      "Product Manager",
+      "Data Analyst"
+    ]
+  },
+  {
+    "name": "LinkedIn",
+    "jobs": [
+      "Recruiter",
+      "Product Manager",
+      "Business Analyst"
+    ]
+  },
+  {
+    "name": "Reddit",
+    "jobs": [
+      "Community Manager",
+      "Software Engineer",
+      "Data Scientist"
+    ]
+  },
+  {
+    "name": "Pinterest",
+    "jobs": [
+      "Product Designer",
+      "Marketing Specialist",
+      "Data Analyst"
+    ]
+  },
+  {
+    "name": "Square",
+    "jobs": [
+      "Software Engineer",
+      "Customer Support Specialist",
+      "Product Manager"
+    ]
+  },
+  {
+    "name": "GitHub",
+    "jobs": [
+      "Software Engineer",
+      "DevOps Engineer",
+      "Security Analyst"
+    ]
+  },
+  {
+    "name": "Atlassian",
+    "jobs": [
+      "Software Engineer",
+      "Product Manager",
+      "Support Specialist"
+    ]
+  },
+  {
+    "name": "Shopify",
+    "jobs": [
+      "E-commerce Specialist",
+      "Product Manager",
+      "Software Developer"
+    ]
+  },
+  {
+    "name": "Walmart",
+    "jobs": [
+      "Retail Associate",
+      "Software Engineer",
+      "Operations Manager"
+    ]
+  },
+  {
+    "name": "Target",
+    "jobs": [
+      "Customer Service Representative",
+      "Data Scientist",
+      "Product Developer"
+    ]
+  },
+  {
+    "name": "Best Buy",
+    "jobs": [
+      "Store Associate",
+      "Software Developer",
+      "Product Specialist"
+    ]
+  },
+  {
+    "name": "Home Depot",
+    "jobs": [
+      "Sales Associate",
+      "Operations Specialist",
+      "Software Developer"
+    ]
+  },
+  {
+    "name": "Costco",
+    "jobs": [
+      "Customer Service Representative",
+      "Product Manager",
+      "Operations Manager"
+    ]
+  },
+  {
+    "name": "Macy's",
+    "jobs": [
+      "Retail Associate",
+      "Operations Specialist",
+      "Marketing Manager"
+    ]
+  },
+  {
+    "name": "Kroger",
+    "jobs": [
+      "Grocery Clerk",
+      "Software Engineer",
+      "Marketing Specialist"
+    ]
+  },
+  {
+    "name": "CVS",
+    "jobs": [
+      "Pharmacist",
+      "Retail Manager",
+      "Customer Service Representative"
+    ]
+  },
+  {
+    "name": "Walgreens",
+    "jobs": [
+      "Pharmacy Technician",
+      "Retail Associate",
+      "Marketing Manager"
+    ]
+  },
+  {
+    "name": "T-Mobile",
+    "jobs": [
+      "Customer Service Representative",
+      "Software Engineer",
+      "Data Analyst"
+    ]
+  },
+  {
+    "name": "Verizon",
+    "jobs": [
+      "Network Engineer",
+      "Product Manager",
+      "Customer Support Specialist"
+    ]
+  },
+  {
+    "name": "Sprint",
+    "jobs": [
+      "Sales Representative",
+      "IT Support Specialist",
+      "Marketing Manager"
+    ]
+  },
+  {
+    "name": "AT&T",
+    "jobs": [
+      "Network Engineer",
+      "Sales Representative",
+      "Product Manager"
+    ]
+  },
+  {
+    "name": "Sony",
+    "jobs": [
+      "Software Engineer",
+      "Product Designer",
+      "Marketing Specialist"
+    ]
+  },
+  {
+    "name": "Nintendo",
+    "jobs": [
+      "Game Developer",
+      "Product Designer",
+      "Marketing Specialist"
+    ]
+  },
+  {
+    "name": "Bose",
+    "jobs": [
+      "Acoustical Engineer",
+      "Product Designer",
+      "Customer Support Specialist"
+    ]
+  },
+  {
+    "name": "Panasonic",
+    "jobs": [
+      "Hardware Engineer",
+      "Software Developer",
+      "Operations Manager"
+    ]
+  },
+  {
+    "name": "Samsung",
+    "jobs": [
+      "Software Engineer",
+      "Data Analyst",
+      "Product Designer"
+    ]
+  },
+  {
+    "name": "LG Electronics",
+    "jobs": [
+      "Electrical Engineer",
+      "Software Developer",
+      "Sales Associate"
+    ]
+  },
+  {
+    "name": "Huawei",
+    "jobs": [
+      "Network Engineer",
+      "Software Engineer",
+      "Business Analyst"
+    ]
+  },
+  {
+    "name": "Qualcomm",
+    "jobs": [
+      "Hardware Engineer",
+      "Software Developer",
+      "Product Manager"
+    ]
+  },
+  {
+    "name": "Nokia",
+    "jobs": [
+      "Network Engineer",
+      "Data Scientist",
+      "Software Developer"
+    ]
+  },
+  {
+    "name": "Xiaomi",
+    "jobs": [
+      "Product Manager",
+      "Software Engineer",
+      "Sales Representative"
+    ]
+  }
+]

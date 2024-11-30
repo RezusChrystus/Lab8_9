@@ -1,3 +1,5 @@
+package classes;
+
 public class Company {
     private String name;
     private int year;
@@ -29,5 +31,10 @@ public class Company {
                 "name='" + name + '\'' +
                 ", year=" + year +
                 '}';
+    }
+    public String companyToFileMapper(){
+        StringBuilder sb = new StringBuilder();
+        sb.append(name).append(";").append(year);
+        return sb.toString();
     }
 }
