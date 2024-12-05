@@ -2,6 +2,7 @@ package classes;
 
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
@@ -19,6 +20,18 @@ public class Main {
         List<Person> personList1 = new PersonHelper().convertListOfStringsToListOfPeople( fileHelper.readFromFile());
         for (Person el : personList1){
             System.out.println(el);
+        }
+        StatisticHelper statisticHelper = new StatisticHelper();
+        System.out.println("\n\n\n");
+        statisticHelper.longestWorkingEmployee(personList1);
+        System.out.println("Male Count: "+statisticHelper.maleAndFemaleCount(personList)[0]+" Female Count: "+statisticHelper.maleAndFemaleCount(personList)[1]);
+        System.out.println("Male avg sallary: "+statisticHelper.avgSallaryMaleAndFemaleInPersonList(personList)[0]+" Female avg sallary: "+statisticHelper.avgSallaryMaleAndFemaleInPersonList(personList)[1]);
+        System.out.println("Min sallary: "+statisticHelper.salaryRange(personList)[0]+"  Max sallary: "+statisticHelper.salaryRange(personList)[1]);
+
+        System.out.println("City        :        AvgSalary");
+        for (Map.Entry<String, Double> entry : statisticHelper.avgSallaryPerCity(personList).entrySet())
+        {
+            System.out.println(entry.getKey()+"    "+entry.getValue());
         }
     }
 
