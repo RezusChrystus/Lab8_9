@@ -1,0 +1,11 @@
+Daphne;Hughes;FEMALE;1973;SEO Specialist;Drosland;Brightwater;Goldenleaf Boulevard;55;83;55;10136;SmartGrid Innovations;1971;34492.0
+Fiona;Quinn;FEMALE;1973;Business Consultant;Nardos;Emberstone;Rosewood Drive;24;37;24;10130;AeroDyn Solutions;1747;47573.0
+Keira;Foster;FEMALE;2001;Construction Manager;Isandria;Emberstone;Pinecrest Path;84;7;84;10134;SkyRise Technologies;2019;49770.0
+Harrison;Clarke;MALE;1979;Talent Acquisition Specialist;Wyroth;Thornwick;Shady Oaks Boulevard;20;88;20;10126;QuantumShift Inc.;1767;19677.0
+Isaac;Patel;MALE;1967;Software Engineer;Rinthor;Frosthaven;Cobblestone Way;49;71;49;10138;NexaTech Solutions;1931;24734.0
+Isabelle;Fletcher;FEMALE;1990;Content Strategist;Jatovia;Emberstone;Moonlit Ridge;18;38;18;10125;PulseLine Technologies;1945;48523.0
+Emma;Walker;FEMALE;2000;Financial Analyst;Shandora;Thornwick;Forest Edge Boulevard;60;72;60;10144;CrescentEdge Industries;1831;6482.0
+Ivan;Hughes;MALE;1983;Graphic Artist;Ylina;Cedarfield;Golden Meadow Lane;38;44;38;10108;Elevate Dynamics;1710;34099.0
+Natalie;Baker;FEMALE;1995;Talent Acquisition Specialist;Furhan;Silvervale;Cobblestone Way;64;10;64;10138;PhoenixOne Enterprises;1847;1137.0
+Elise;Nash;FEMALE;1963;Sales Manager;Olvora;Frosthaven;Briarwood Path;74;10;74;10141;StarPath Industries;1729;7502.0
+Isaac;Evans;MALE;1990;Social Media Manager;Fenmark;Ashbourne;Clover Ridge Path;49;18;49;10149;RedStone Enterprises;1947;43762.0
